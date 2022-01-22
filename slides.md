@@ -1,6 +1,5 @@
 ---
 theme: vuetiful
-altCover: true 
 title: Introducción a Vue.js 3
 ---
 
