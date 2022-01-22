@@ -1,6 +1,7 @@
 ---
 theme: vuetiful
 title: Introducción a Vue.js 3
+download: true
 ---
 
 # Introducción a Vue.js 3
