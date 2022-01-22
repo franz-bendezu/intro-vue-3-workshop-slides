@@ -125,7 +125,7 @@ Es por eso que algunos marcos (como Vue) tienen algo llamado DOM virtual. El DOM
 # La solución
 
 
-<img height="10" border="rounded" src="/img/virtual DOM.jpg">
+<img height="10" border="rounded" src="/img/virtual-DOM.jpg">
 
 Arriba puede ver cómo podemos expresar un div como un objeto JavaScript. A continuación, sabrá cómo tomar este nodo virtual y realizar las llamadas de JavaScript adecuadas para crear un nodo DOM real en el navegador. En realidad, hay un paso adicional en este ciclo de vida, llamado funciones de renderizado.
 
