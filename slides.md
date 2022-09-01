@@ -32,7 +32,7 @@ layout: section
 
 ---
 
-# ¿Qué es ?
+# ¿Qué es la DOM ?
 
 Dom significa Document Object Model, y es la interfaz de nuestro navegador (API) para cambiar lo que se muestra en el navegador.
 
@@ -288,7 +288,7 @@ https://git-scm.com/downloads
 - Clona el proyecto: 
 	git clone https://github.com/FranzAnt/Vue-3-Intro
 - git checkout CX_base
-- git checkout CX_fin
+- git checkout CX_end
 
 
 ---
