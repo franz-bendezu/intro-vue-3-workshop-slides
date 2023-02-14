@@ -112,12 +112,12 @@
   dependencies:
     "@iconify/types" "^1.0.10"
 
-"@iconify-json/ri@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@iconify-json/ri/-/ri-1.0.2.tgz#3c6a8058180cd90d550fa04abc20d3ce417f3813"
-  integrity sha512-PZMjoNE05S1PTcQHdIla/0htpmvMV2JvNwDzfEWVNGsLRG+htZuwozY9iiua6PGqmTw+kfBklvqrkTpzCpZvhQ==
+"@iconify-json/ri@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@iconify-json/ri/-/ri-1.1.5.tgz#569495ae788a3865805e7a17de553ab90d672ea7"
+  integrity sha512-OrxKcKFHanTSPmU5esvSn5YfpNgjwJJ+6rkK1I1pIRCPXfuvmlTJGUjf+L5ZQHUiMWLQz+M2bqXx8iBUtW35Gg==
   dependencies:
-    "@iconify/types" "^1.0.10"
+    "@iconify/types" "*"
 
 "@iconify-json/uim@^1.0.2":
   version "1.0.2"
@@ -125,6 +125,11 @@
   integrity sha512-5shh/W515o7xw2FtfGdjPU5nRW2Q/U+aHcA07BrgYeLPHtY/yxDMRX9oPlLn0h+B20Q9b53imiVBR1AtJYU18w==
   dependencies:
     "@iconify/types" "^1.0.10"
+
+"@iconify/types@*":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@iconify/types/-/types-2.0.0.tgz#ab0e9ea681d6c8a1214f30cd741fe3a20cc57f57"
+  integrity sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==
 
 "@iconify/types@^1.0.10", "@iconify/types@^1.0.12":
   version "1.0.12"
