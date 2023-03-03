@@ -11,7 +11,7 @@
     "@iconify-json/ri": "^1.0.2",
     "@iconify-json/uim": "^1.0.2",
     "@slidev/cli": "^0.28.2",
-    "playwright-chromium": "^1.14.1",
+    "playwright-chromium": "^1.31.2",
     "slidev-theme-vuetiful": "^0.1.0"
   },
   "name": "vue-3-slide"
