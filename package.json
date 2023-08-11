@@ -9,7 +9,7 @@
   "dependencies": {
     "@iconify-json/logos": "^1.0.4",
     "@iconify-json/ri": "^1.0.2",
-    "@iconify-json/uim": "^1.0.2",
+    "@iconify-json/uim": "^1.1.6",
     "@slidev/cli": "^0.42.7",
     "playwright-chromium": "^1.37.0",
     "slidev-theme-vuetiful": "^0.3.1"
