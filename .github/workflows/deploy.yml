@@ -4,8 +4,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v3.7.0
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7.0.0
         with:
           node-version: '18'
       - name: Install dependencies
@@ -13,7 +13,7 @@ jobs:
       - name: Build
         run: yarn build --base ${{ secrets.BASE_URL }}
       - name: Deploy pages
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
         env:
