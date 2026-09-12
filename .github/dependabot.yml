@@ -16,6 +16,21 @@ updates:
       prefix-development: chore
       include: scope
   # Fetch and update latest `github-actions` pkgs
+    groups:
+      npm-production:
+        dependency-type: production
+        update-types:
+          - minor
+          - patch
+      npm-development:
+        dependency-type: development
+        update-types:
+          - minor
+          - patch
+      npm-major:
+        update-types:
+          - major
+
   - package-ecosystem: github-actions
     directory: '/'
     schedule:
@@ -30,3 +45,15 @@ updates:
       prefix: fix
       prefix-development: chore
       include: scope
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+        update-types:
+          - minor
+          - patch
+      github-actions-major:
+        patterns:
+          - "*"
+        update-types:
+          - major
