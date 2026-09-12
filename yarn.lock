@@ -423,12 +423,12 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/logos@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.0.4.tgz#28cc96c99a1cda48a5530fce6001e1df8de22f96"
-  integrity sha512-jxNfvLj5ZCQUSe8bBN3mUxePKWcS9JbmoNd4t95PI5nDbwjOqAs1B4pgsJAn0T99foeThTn7r/69AQDqPQXCBA==
+"@iconify-json/logos@^1.2.14":
+  version "1.2.14"
+  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.2.14.tgz#98ed4368b199e5ba3441aca5b79ffe985284a1a7"
+  integrity sha512-O36DicXkgAMT6NAsH7MTWlOql8NktHz9fBCItTjz6L/9gyRXw4vQj6qTeVgww5UZWiVugUV1MhVFA/g9HWIkBw==
   dependencies:
-    "@iconify/types" "^1.0.10"
+    "@iconify/types" "*"
 
 "@iconify-json/ph@^1.1.5":
   version "1.1.6"
@@ -437,29 +437,24 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/ri@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@iconify-json/ri/-/ri-1.0.2.tgz#3c6a8058180cd90d550fa04abc20d3ce417f3813"
-  integrity sha512-PZMjoNE05S1PTcQHdIla/0htpmvMV2JvNwDzfEWVNGsLRG+htZuwozY9iiua6PGqmTw+kfBklvqrkTpzCpZvhQ==
+"@iconify-json/ri@^1.2.10":
+  version "1.2.10"
+  resolved "https://registry.yarnpkg.com/@iconify-json/ri/-/ri-1.2.10.tgz#eef0a8e808e2fac3ec82f593ce9d6dbed742334c"
+  integrity sha512-WWMhoncVVM+Xmu9T5fgu2lhYRrKTEWhKk3Com0KiM111EeEsRLiASjpsFKnC/SrB6covhUp95r2mH8tGxhgd5Q==
   dependencies:
-    "@iconify/types" "^1.0.10"
+    "@iconify/types" "*"
 
-"@iconify-json/uim@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.0.2.tgz#d8e3339c835b54e0d14cbb046c4262abf16dd0fe"
-  integrity sha512-5shh/W515o7xw2FtfGdjPU5nRW2Q/U+aHcA07BrgYeLPHtY/yxDMRX9oPlLn0h+B20Q9b53imiVBR1AtJYU18w==
+"@iconify-json/uim@^1.2.3":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.2.3.tgz#46062ee64e50aef40bfa1fe7c935a86b8e7d25b4"
+  integrity sha512-rCOU5nrRbcg5s5ZhL9Esoj/acyPeb6hPetVQYMJ18/wJwYsQtcwrFJXy6XOwyFs9TTLnjFGynLJO/TYihOQtDg==
   dependencies:
-    "@iconify/types" "^1.0.10"
+    "@iconify/types" "*"
 
 "@iconify/types@*", "@iconify/types@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@iconify/types/-/types-2.0.0.tgz#ab0e9ea681d6c8a1214f30cd741fe3a20cc57f57"
   integrity sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==
-
-"@iconify/types@^1.0.10":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@iconify/types/-/types-1.0.12.tgz#839f1f784b7030b94482d51996570f4dbd7d6796"
-  integrity sha512-6er6wSGF3hgc1JEZqiGpg21CTCjHBYOUwqLmb2Idzkjiw6ogalGP0ZMLVutCzah+0WB4yP+Zd2oVPN8jvJ+Ftg==
 
 "@iconify/utils@^2.1.7":
   version "2.1.7"
@@ -3421,17 +3416,17 @@ plantuml-encoder@^1.4.0:
   resolved "https://registry.yarnpkg.com/plantuml-encoder/-/plantuml-encoder-1.4.0.tgz#7899302cf785de956bf1a167e15420feee5975f7"
   integrity sha512-sxMwpDw/ySY1WB2CE3+IdMuEcWibJ72DDOsXLkSmEaSzwEUaYBT6DWgOfBiHGCux4q433X6+OEFWjlVqp7gL6g==
 
-playwright-chromium@^1.37.0:
-  version "1.37.0"
-  resolved "https://registry.yarnpkg.com/playwright-chromium/-/playwright-chromium-1.37.0.tgz#6763b738b8c48efa0b83d605f186c8b3e237124e"
-  integrity sha512-56DOca+pGZombnX34ZwO1fI7HLgv3IgzqzNT1kmYAJ82JytqmXFz/umA7WkkONn9cN3WRPswqrqvD+3pq46rdg==
+playwright-chromium@^1.63.0:
+  version "1.63.0"
+  resolved "https://registry.yarnpkg.com/playwright-chromium/-/playwright-chromium-1.63.0.tgz#db217eb3db1924790131e5a6851c471fb212c423"
+  integrity sha512-Bb0ZqhnFFcY8KTFl4XphnqEpZv/BU1flx9apJ4l/UfOBsNppWg6AEue51uuvsrOEZnsPQXf0+C53uzLjhA4Q6w==
   dependencies:
-    playwright-core "1.37.0"
+    playwright-core "1.63.0"
 
-playwright-core@1.37.0:
-  version "1.37.0"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.37.0.tgz#a0a009b840076706452e29aab0efe0ebf5d45ab1"
-  integrity sha512-1c46jhTH/myQw6sesrcuHVtLoSNfJv8Pfy9t3rs6subY7kARv0HRw5PpyfPYPpPtQvBOmgbE6K+qgYUpj81LAA==
+playwright-core@1.63.0:
+  version "1.63.0"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.63.0.tgz#e57665bc32846c213ac39a1e4d5bc6228e76b376"
+  integrity sha512-rYCsBF/M5HjUch52bbtVONEFjv6Xu8sm8h72dNlR5bzIE1fvC/bxgspzkjSfU+MweEMmPM8KJebG6nnyxo5mCg==
 
 popmotion@^11.0.5:
   version "11.0.5"
